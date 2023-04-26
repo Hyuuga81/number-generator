@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/number-generator/static/js/main.9112bfbc.js",
+    "index.html": "/number-generator/index.html",
+    "main.9112bfbc.js.map": "/number-generator/static/js/main.9112bfbc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9112bfbc.js"
+  ]
+}
